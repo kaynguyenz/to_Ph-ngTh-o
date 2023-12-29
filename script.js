@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
       // Kiểm tra nếu đã nhấn vào nút "Yes" hai lần
       if (clickCount === 2) {
           // Chuyển hướng đến trang khác
-          window.location.href = "file:///C:/Users/admin/Desktop/New%20folder%20(5)/Th%C6%B0%20cho%20em/dist/index.html";
+          window.location.href = "./dist/index.html";
       }
   });
 });
